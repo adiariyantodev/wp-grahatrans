@@ -1,0 +1,12 @@
+[31-Oct-2024 21:35:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/gra10004/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[06-Nov-2024 08:26:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/gra10004/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[07-Nov-2024 05:38:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/gra10004/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17

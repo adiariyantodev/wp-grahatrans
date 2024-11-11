@@ -1,0 +1,60 @@
+[31-Oct-2024 15:51:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/gra10004/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/theme-compat/embed.php on line 13
+[01-Nov-2024 15:46:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/gra10004/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/theme-compat/header.php on line 9
+[02-Nov-2024 12:24:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/gra10004/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[03-Nov-2024 02:34:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/gra10004/public_html/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/theme-compat/comments.php on line 9
+[04-Nov-2024 11:30:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/gra10004/public_html/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[05-Nov-2024 15:53:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/gra10004/public_html/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/theme-compat/embed-404.php on line 14
+[07-Nov-2024 07:43:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/gra10004/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/theme-compat/footer.php on line 9
+[07-Nov-2024 09:14:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/gra10004/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/theme-compat/embed.php on line 13
+[08-Nov-2024 15:32:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/gra10004/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[08-Nov-2024 23:45:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/gra10004/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/theme-compat/header.php on line 9
+[09-Nov-2024 10:45:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/gra10004/public_html/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/theme-compat/comments.php on line 9
+[09-Nov-2024 18:49:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/gra10004/public_html/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[11-Nov-2024 09:38:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/gra10004/public_html/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/theme-compat/embed-404.php on line 14
+[11-Nov-2024 09:38:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/gra10004/public_html/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[11-Nov-2024 09:51:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/gra10004/public_html/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/theme-compat/header-embed.php on line 19

@@ -1,0 +1,4 @@
+[05-Nov-2024 05:49:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10

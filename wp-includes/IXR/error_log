@@ -1,0 +1,8 @@
+[03-Nov-2024 10:15:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/gra10004/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[09-Nov-2024 06:50:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/gra10004/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8

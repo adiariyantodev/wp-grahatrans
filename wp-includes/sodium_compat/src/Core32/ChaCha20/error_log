@@ -1,0 +1,4 @@
+[06-Nov-2024 05:36:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10

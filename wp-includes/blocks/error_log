@@ -1,0 +1,8 @@
+[01-Nov-2024 08:09:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/gra10004/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/blocks/index.php on line 8
+[07-Nov-2024 10:38:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/gra10004/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/blocks/index.php on line 8

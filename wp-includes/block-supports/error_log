@@ -1,0 +1,68 @@
+[01-Nov-2024 19:31:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/gra10004/public_html/wp-includes/block-supports/typography.php:685
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/typography.php on line 685
+[02-Nov-2024 01:01:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/gra10004/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/dimensions.php on line 164
+[03-Nov-2024 05:38:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/gra10004/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[03-Nov-2024 19:58:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/gra10004/public_html/wp-includes/block-supports/layout.php:945
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/layout.php on line 945
+[04-Nov-2024 17:09:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/gra10004/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[05-Nov-2024 01:13:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/gra10004/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/align.php on line 59
+[05-Nov-2024 10:08:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/gra10004/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/border.php on line 170
+[05-Nov-2024 20:23:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/gra10004/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/colors.php on line 138
+[07-Nov-2024 00:40:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/gra10004/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/elements.php on line 263
+[07-Nov-2024 22:09:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/gra10004/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/dimensions.php on line 164
+[09-Nov-2024 09:25:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/gra10004/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/spacing.php on line 83
+[10-Nov-2024 15:31:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/gra10004/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[10-Nov-2024 17:27:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/gra10004/public_html/wp-includes/block-supports/typography.php:685
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/typography.php on line 685
+[10-Nov-2024 22:05:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/gra10004/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/border.php on line 170
+[10-Nov-2024 22:10:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/gra10004/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/align.php on line 59
+[10-Nov-2024 23:38:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/gra10004/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[11-Nov-2024 02:49:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/gra10004/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/block-supports/colors.php on line 138

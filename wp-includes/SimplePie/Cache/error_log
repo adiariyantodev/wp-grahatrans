@@ -1,0 +1,28 @@
+[02-Nov-2024 05:34:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/gra10004/public_html/wp-includes/SimplePie/Cache/Memcache.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[02-Nov-2024 17:09:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/gra10004/public_html/wp-includes/SimplePie/Cache/DB.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/SimplePie/Cache/DB.php on line 50
+[03-Nov-2024 12:28:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/gra10004/public_html/wp-includes/SimplePie/Cache/File.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/SimplePie/Cache/File.php on line 50
+[06-Nov-2024 01:58:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/gra10004/public_html/wp-includes/SimplePie/Cache/Redis.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/SimplePie/Cache/Redis.php on line 27
+[06-Nov-2024 14:05:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/gra10004/public_html/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[07-Nov-2024 20:10:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/gra10004/public_html/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[10-Nov-2024 04:05:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/gra10004/public_html/wp-includes/SimplePie/Cache/DB.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/SimplePie/Cache/DB.php on line 50

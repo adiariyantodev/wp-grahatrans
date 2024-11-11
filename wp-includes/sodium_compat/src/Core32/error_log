@@ -1,0 +1,56 @@
+[01-Nov-2024 17:56:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[02-Nov-2024 06:39:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_ChaCha20" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[02-Nov-2024 18:14:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[02-Nov-2024 23:19:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[03-Nov-2024 00:39:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[03-Nov-2024 11:24:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[05-Nov-2024 02:28:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[06-Nov-2024 00:18:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[09-Nov-2024 09:50:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[09-Nov-2024 20:29:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[10-Nov-2024 00:09:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[10-Nov-2024 04:10:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[10-Nov-2024 20:30:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_ChaCha20" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[11-Nov-2024 01:49:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gra10004/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
